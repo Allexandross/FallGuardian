@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FallGuardian</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Welcome to FallGuardian for Android, created by Alexandros Michaelides.
+        \n\n
+        This app was created as part of the dissertation project \"Fall Detection using Machine Learning and IoT Devices\". The project was supervised by Nazia Hameed and co-supervised by Adam Walker at the University of Nottingham.
+        \n\n
+        The app sends the sensor data from your connected Wear OS smartwatch to a server with a machine learning algorithm to be analysed, and if a fall is detected, it automatically informs the emergency contact that you have provided via SMS.
+        \n\n
+        The app only collects the necessary sensor data and the IP address of the device being used to operate the app and neither of the two are stored anywhere. The emergency contact provided is only stored locally on the device you are using. No other personal information is stored.</string>
+</resources>
