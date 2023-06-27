@@ -2,7 +2,7 @@
 
 ## FallGuardian
 
-<img src="Images/FallGuardian%20Logo%20Transparent.png" alt="FallGuardian Logo" width="200"/>
+<img src="Images/FallGuardian%20Logo.png" alt="FallGuardian Logo" width="200"/>
 
 Welcome to FallGuardian for Android, created by Alexandros Michaelides.
 This repository showcases the work done as part of the dissertation project "Fall Detection using Machine Learning and IoT Devices". The project was supervised by Nazia Hameed and co-supervised by Adam Walker at the University of Nottingham.
